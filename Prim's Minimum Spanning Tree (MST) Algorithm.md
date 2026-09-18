@@ -70,6 +70,5 @@ g.primMST();
 ### RESULT
 Therefore, the output is the example to write a Python program for Prim's Minimum Spanning Tree (MST) algorithm.
 
-## RESULT
 
 
