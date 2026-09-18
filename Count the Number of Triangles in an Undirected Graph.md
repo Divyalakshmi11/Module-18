@@ -20,6 +20,7 @@ Also, initialize a matrix `aux3` to store the cube of the adjacency matrix (i.e.
 **Step 6**: Return the result.
 
 ## PYTHON PROGRAM
+```
 def multiply(A, B, C):
 	global V
 	for i in range(V):
@@ -51,6 +52,7 @@ graph = [ [0, 1, 1, 0],
 		  [0, 1, 1, 0] ]
 print("Total number of Triangle in Graph :",
 					triangleInGraph(graph))
+```
 
 ## OUTPUT
 <img width="1186" height="194" alt="image" src="https://github.com/user-attachments/assets/2cfe30e5-6745-4172-a333-19234766c774" />
